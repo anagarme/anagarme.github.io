@@ -1,0 +1,18 @@
+---
+title: "Ana Marisol"
+image: "sol.jpg"
+color1: "#5A59A3"
+color2: "#C66060"
+angle: 130
+links:
+  - label: Github
+    url: "https://github.com/anagarme"
+  - label: Twitter
+    url: "https://twitter.com/Marisol_GarMe"
+  - label: Email
+    url: "mail: anagm@lcg.unam.mx"
+output:
+  postcards::onofre
+---
+ Soy Ana Marisol García Mejía, estudiante de la Licenciatura en Ciencias Genómicas impartida en el [Centro de Ciencias Genómicas](https://www.ccg.unam.mx/). 
+
