@@ -5,12 +5,12 @@ color1: "#5A59A3"
 color2: "#C66060"
 angle: 130
 links:
-  - label: Github
+  - label: GitHub
     url: "https://github.com/anagarme"
   - label: Twitter
     url: "https://twitter.com/Marisol_GarMe"
   - label: Email
-    url: "mail: anagm@lcg.unam.mx"
+    url: "mailto:anagm@lcg.unam.mx"
 output:
   postcards::onofre
 ---
