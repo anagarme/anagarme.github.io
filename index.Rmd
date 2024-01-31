@@ -8,7 +8,7 @@ links:
   - label: GitHub
     url: "https://github.com/anagarme"
   - label: Twitter
-    url: "https://twitter.com/Marisol_GarMe"
+    url: "https://twitter.com/anagarme23"
   - label: Email
     url: "mailto:anagm@lcg.unam.mx"
 output:
